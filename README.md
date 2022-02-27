@@ -60,7 +60,8 @@ Now don't come asking to solve other mysteries 🙊
 <a href="https://docs.docker.com/get-started/" target="_blank"><img src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/docker.svg" align="left" alt="Docker" height='42px'/> </a>
 
 <br/>
-<br/>
+
+### 🔨 Languages and Tools:
 
 <a href='https://www.linkedin.com/in/abhishek-prajapati-engineer/' target="_blank"><img align='left' alt="linkedin" src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/linkedin.svg" height='25px'/></a>&nbsp; &nbsp; &nbsp;
 <a href='https://twitter.com/justb_weird' target="_blank"><img align='left' alt="twitter" src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/twitter.svg" height='25px'/></a>
