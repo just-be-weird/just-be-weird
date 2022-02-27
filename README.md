@@ -22,7 +22,7 @@ Now don't come asking to solve other mysteries 🙊
 - 🔭 &nbsp; I’m currently working on my **Portfolio V2** using nextjs, TS, graphql, apollo, MDX ...[typing]
 - 🌱 &nbsp; I’m currently learning Typescript
 - 👨🏻‍💻 &nbsp; Most of my projects are on [Github](https://github.com/just-be-weird?tab=repositories) if not published privately
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 💬 &nbsp; Ask me about anything tech related, I'll try my best
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abhishek-prajapati-engineer/)
 - 📝 &nbsp; Checkout my [resume](https://github.com/just-be-weird/just-be-weird/raw/main/assets/AbhishekPrajpati_Resume_2019_07.pdf)
 - 📚 &nbsp; When I am free, I watch anime online 🙈
