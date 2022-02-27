@@ -1,7 +1,4 @@
 ## Hey 👋, I'm Abhishek Prajapati!
-
-
-
 A passionate software engineer, who loves nature, symmetry and anime... want more? OK here we go 🗣️
 * UI/UX specialist 🧑‍🎨
 * Full Stack Web Developer 🌐
@@ -9,26 +6,19 @@ A passionate software engineer, who loves nature, symmetry and anime... want mor
 * Noob App Developer 📱
 * Part-time volunteer teacher 👨‍🏫
 * Huge nature lover 🌳🌲 🐢
-
-love tinkering with new tech tools 💻 to build cool stuffs 🛠️ in spare time
-<br/>
-<br/>
+  love tinkering with new tech tools 💻 to build cool stuffs 🛠️ in spare time
+  <br/>
 
 ### Fact aside
-
 I've solved one of the world's oldest and fascinating problem to the date - Who came first, the chicken or egg? just in one line...how?
 ```js
 console.log(['🥚', '🐔'].sort()[0]);
-
 '🐔'
 ```
 Now don't come asking to solve other mysteries 🙊
-
-
-<img align="right" alt="SVG" src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/whoami.svg" width="300px" height="300"/>
+<img align="right" alt="SVG" src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/whoami.svg" height="300"/>
 
 ### still want to know more 🤦... cool time for about me 🧐
-
 - 🔭 &nbsp; I’m currently working on my **Portfolio V2** using nextjs, TS, graphql, apollo, MDX ...[typing]
 - 🌱 &nbsp; I’m currently learning Typescript
 - 👨🏻‍💻 &nbsp; Most of my projects are on [Github](https://github.com/just-be-weird?tab=repositories) if not published privately
@@ -36,15 +26,12 @@ Now don't come asking to solve other mysteries 🙊
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abhishek-prajapati-engineer/)
 - 📝 &nbsp; Checkout my [resume](https://github.com/just-be-weird/just-be-weird/raw/main/assets/AbhishekPrajpati_Resume_2019_07.pdf)
 - 📚 &nbsp; When I am free, I watch anime online 🙈
+  <br/>
 
-<br/>
-
-### 🕵️ Find me -
+### 🕵️ Find me on
 <a href='https://www.linkedin.com/in/abhishek-prajapati-engineer/' target="_blank"><img align='left' alt="linkedin" src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/linkedin.svg" height='25px'/></a>&nbsp; &nbsp; &nbsp;
 <a href='https://twitter.com/justb_weird' target="_blank"><img align='left' alt="twitter" src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/twitter.svg" height='25px'/></a>
-
 <br/>
-
 ### 🔨 Languages and Tools:
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/react.svg"></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" height ="42px" src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/typescript.svg"></a>
