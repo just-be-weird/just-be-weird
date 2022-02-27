@@ -32,7 +32,7 @@ Now don't come asking to solve other mysteries 🙊
 <a href='https://www.linkedin.com/in/abhishek-prajapati-engineer/' target="_blank"><img align='left' alt="linkedin" src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/linkedin.svg" height='25px'/></a>&nbsp; &nbsp; &nbsp;
 <a href='https://twitter.com/justb_weird' target="_blank"><img align='left' alt="twitter" src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/twitter.svg" height='25px'/></a>
 <br/>
-### 🔨 Languages and Tools:
+### 🔨 Languages and Tools using
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/react.svg"></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" height ="42px" src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/typescript.svg"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" height ="42px" src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/javascript.svg"></a>
@@ -51,3 +51,4 @@ Now don't come asking to solve other mysteries 🙊
 <a href="https://firebase.google.com/" target="_blank"><img align="left" src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/firebase.svg" alt="firebase" height ="42px"/></a>
 <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank"><img src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/bash-colored.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://docs.docker.com/get-started/" target="_blank"><img src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/docker.svg" align="left" alt="Docker" height='42px'/> </a>
+<a href="https://www.jetbrains.com/webstorm/learn/" target="_blank"><img src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/webstorm.png" align="left" alt="Webstorm IDE" height='42px'/> </a>
