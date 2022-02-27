@@ -1,4 +1,4 @@
-## Hey 👋, I'm Abhishek Prajapati!
+## Hey 👋 I'm Abhishek!
 A passionate software engineer, who loves nature, symmetry and anime. Still want more ok, who Am I? 🗣️
 * UI/UX specialist 🧑‍🎨
 * Full Stack Web Developer 🌐
