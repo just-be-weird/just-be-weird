@@ -38,6 +38,7 @@ Now don't come asking to solve other mysteries 🙊
 - 📚 &nbsp; When I am free, I watch anime online 🙈
 
 <br/>
+
 ### 🕵️ Find me -
 <a href='https://www.linkedin.com/in/abhishek-prajapati-engineer/' target="_blank"><img align='left' alt="linkedin" src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/linkedin.svg" height='25px'/></a>&nbsp; &nbsp; &nbsp;
 <a href='https://twitter.com/justb_weird' target="_blank"><img align='left' alt="twitter" src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/twitter.svg" height='25px'/></a>
