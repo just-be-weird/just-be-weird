@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Abhishek Prajapati!
-A passionate software engineer, who loves nature, symmetry and anime... want more? OK who am I? 🗣️
+A passionate software engineer, who loves nature, symmetry and anime. Still want more ok, who Am I? 🗣️
 * UI/UX specialist 🧑‍🎨
 * Full Stack Web Developer 🌐
 * Noob Designer 🎨
