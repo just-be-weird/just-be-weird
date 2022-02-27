@@ -25,7 +25,7 @@ console.log(['🥚', '🐔'].sort()[0]);
 Now don't come asking to solve other mysteries 🙊
 
 
-<img align="right" alt="SVG" src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/whoami.svg" width="400px"/>
+<img align="right" alt="SVG" src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/whoami.svg" width="300px" height="300"/>
 
 ### still want to know more 🤦... cool time for about me 🧐
 
