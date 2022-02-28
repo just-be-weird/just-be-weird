@@ -1,15 +1,18 @@
 ## Hey 👋 I'm Abhishek!
-A passionate software engineer, who loves nature, symmetry and anime. Still want more ok, who Am I? 🗣️
-* UI/UX specialist 🧑‍🎨
-* Full Stack Web Developer 🌐
-* Noob Designer 🎨
-* Noob App Developer 📱
+🗣️ You ask who who am I?
+* UI/UX specialist 🧑‍🎨 (I❤️symmetry)
+* Passionate full stack WEB developer 🌐
+* Noob designer 🎨
+* Noob app developer 📱
 * Part-time volunteer teacher 👨‍🏫
-* Huge nature lover 🌳🌲 🐢
-  love tinkering with new tech tools 💻 to build cool stuffs 🛠️ in spare time
+* Huge huge nature lover 🌳🌲 🐢
+* Crazy about emojis 😍
+* Anime nerd 👹
+ 
+ Loves tinkering with new tech tools 💻 to build cool stuffs 🛠️ in spare time
   <br/>
 
-### Fact aside
+### Facts aside
 I've solved one of the world's oldest and fascinating problem to the date - Who came first, the chicken or egg? just in one line...how?
 ```js
 console.log(['🥚', '🐔'].sort()[0]);
@@ -25,7 +28,7 @@ Now don't come asking to solve other mysteries 🙊
 - 💬 &nbsp; Ask me about anything tech related, I'll try my best
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abhishek-prajapati-engineer/)
 - 📝 &nbsp; Checkout my [resume](https://github.com/just-be-weird/just-be-weird/raw/main/assets/AbhishekPrajpati_Resume_2019_07.pdf)
-- 📚 &nbsp; When I am free, I watch anime online 🙈
+- 📚 &nbsp; When I am free mostly I watch anime online ☠️
   <br/>
 
 ### 🕵️ Find me on
