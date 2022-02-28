@@ -7,13 +7,16 @@
 * Part-time volunteer teacher 👨‍🏫
 * Huge huge nature lover 🌳🌲 🐢
 * Crazy about emojis 😍
-* Anime nerd 👹
+* Anime nerd 🤓
  
  Loves tinkering with new tech tools 💻 to build cool stuffs 🛠️ in spare time
   <br/>
 
 ### Facts aside
-I've solved one of the world's oldest and fascinating problem to the date - Who came first, the chicken or egg? just in one line...how?
+I've solved one of the world's oldest and fascinating problem to the date
+> Who came first, the chicken or egg 🤨?
+
+That too in just one line...how?
 ```js
 console.log(['🥚', '🐔'].sort()[0]);
 ```
