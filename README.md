@@ -1,5 +1,5 @@
 ## Hey 👋 I'm Abhishek!
-🗣️ You ask who who am I?
+🗣️ Who am I?
 * UI/UX specialist 🧑‍🎨 (I❤️symmetry)
 * Passionate full stack WEB developer 🌐
 * Noob designer 🎨
