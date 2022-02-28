@@ -16,7 +16,6 @@
 I've solved one of the world's oldest and fascinating problem to the date - Who came first, the chicken or egg? just in one line...how?
 ```js
 console.log(['🥚', '🐔'].sort()[0]);
-'🐔'
 ```
 Now don't come asking to solve other mysteries 🙊
 <img align="right" alt="SVG" src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/whoami.svg" height="300"/>
