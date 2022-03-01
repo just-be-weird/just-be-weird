@@ -5,7 +5,7 @@
 * Noob designer 🎨
 * Noob app developer 📱
 * Part-time volunteer teacher 👨‍🏫
-* Huge huge nature lover 🌳🌲 🐢
+* Huge nature lover 🌳🌲 🐢
 * Crazy about emojis 😍
 * Anime nerd 🤓
  
