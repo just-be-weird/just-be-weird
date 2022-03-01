@@ -47,8 +47,8 @@ Now don't come asking to solve other mysteries 🙊
 <a href="https://www.apollographql.com/docs/react/" target="_blank"><img align="left" alt="Apollo Client" height ="42px" src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/apollo.png"></a>
 <a href="https://sass-lang.com/" target="_blank"><img src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/sass.svg" align="left" alt="Sass and Scss" height='42px'/> </a>
 <a href="https://styled-components.com/docs/" target="_blank"><img align="left" alt="Styled components" height ="42px" src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/styled-component.png"></a>
-<a href="https://mantine.dev/getting-started/" target="_blank"><img align="left" alt="Mantine UI" height ="42px" src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/mantine.svg"></a>
-<a href="https://mdxjs.com/guides/" target="_blank"><img align="left" alt="MDX" height ="42px" src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/mdx.svg"></a>
+<a href="https://mantine.dev/getting-started/" target="_blank"><img align="left" alt="Mantine UI"  height="30px" src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/mantine.svg"></a>
+<a href="https://mdxjs.com/guides/" target="_blank"><img align="left" alt="MDX" height ="30px" src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/mdx.svg"></a>
 <a href="https://storybook.js.org/docs/react/get-started/introduction" target="_blank"><img src="https://raw.githubusercontent.com/just-be-weird/just-be-weird/main/assets/storybook.png" align="left" alt="storybook" height='42px'/> </a>
 <a href="https://docs.npmjs.com/getting-started" target="_blank"><img src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/npm.svg" align="left" alt="NPM" height='42px'/> </a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/git-scm.svg" align="left" alt="Babel js" height='42px'/> </a>
@@ -59,4 +59,4 @@ Now don't come asking to solve other mysteries 🙊
 <a href="https://firebase.google.com/" target="_blank"><img align="left" src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/firebase.svg" alt="firebase" height ="42px"/></a>
 <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank"><img src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/bash-colored.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://docs.docker.com/get-started/" target="_blank"><img src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/docker.svg" align="left" alt="Docker" height='42px'/> </a>
-<a href="https://www.jetbrains.com/webstorm/learn/" target="_blank"><img src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/webstorm.png" align="left" alt="Webstorm IDE" height='32px'/> </a>
+<a href="https://www.jetbrains.com/webstorm/learn/" target="_blank"><img src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/webstorm.png" align="left" alt="Webstorm IDE" height='32px' width='32px'/> </a>
