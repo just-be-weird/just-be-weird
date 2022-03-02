@@ -30,7 +30,7 @@ Now don't come asking to solve other mysteries 🙊
 - 💬 &nbsp; Ask me about anything tech related, I'll try my best
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abhishek-prajapati-engineer/)
 - 📝 &nbsp; Checkout my [resume](https://github.com/just-be-weird/just-be-weird/raw/main/assets/AbhishekPrajpati_Resume_2019_07.pdf)
-- 📚 &nbsp; When I am free mostly I watch anime online ☠️
+- 👻 &nbsp; When I am free mostly I watch anime online ☠️
   <br/>
 
 ### 🕵️ Find me on
