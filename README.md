@@ -2,6 +2,7 @@
 🗣️ Who am I?
 * UI/UX specialist 🧑‍🎨 (I❤️symmetry)
 * Passionate full stack WEB developer 🌐
+* ColemakDH keyboard layout user ⌨️ (QWERTY is so normal) 
 * Noob designer 🎨
 * Noob app developer 📱
 * Part-time volunteer teacher 👨‍🏫
