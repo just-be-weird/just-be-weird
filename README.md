@@ -3,8 +3,7 @@
 * UI/UX specialist 🧑‍🎨 (I❤️symmetry)
 * Passionate full stack WEB developer 🌐
 * ColemakDH keyboard layout user ⌨️ (QWERTY is so normal) 
-* Noob designer 🎨
-* Noob app developer 📱
+* Crazy about design in general🎨
 * Part-time volunteer teacher 👨‍🏫
 * Huge nature lover 🌳🌲 🐢
 * Crazy about emojis 😍
