@@ -7,14 +7,14 @@
 * Part-time volunteer teacher 👨‍🏫
 * Huge nature lover 🌳🌲 🐢
 * Crazy about emojis 😍
-* Anime nerd 🤓
+* Anime lover 🤓
  
- Loves tinkering with new tech tools 💻 to build cool stuffs 🛠️ in spare time
+ Loves tinkering with new tech tools 💻 and build cool stuffs 🛠️ in spare time
   <br/>
 
 ### Facts aside
 I've solved one of the world's oldest and fascinating problem to the date
-> Who came first, the chicken or egg 🤨?
+> Who came first, the chicken or egg 🤨??
 
 That too in just one line...how?
 ```js
