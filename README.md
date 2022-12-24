@@ -5,7 +5,7 @@
 * ColemakDH keyboard layout user ⌨️ (QWERTY is so normal) 
 * Crazy about design in general🎨
 * Part-time volunteer teacher 👨‍🏫
-* Huge nature lover 🌳🌲 🐢
+* Huge nature lover 🌳🌲🐢
 * Crazy about emojis 😍
 * Anime lover 🤓
  
