@@ -24,7 +24,7 @@ Now don't come asking to solve other mysteries 🙊
 <img align="right" alt="SVG" src="https://github.com/just-be-weird/just-be-weird/raw/main/assets/whoami.svg" height="300"/>
 
 ### still want to know more 🤦... cool time for about me 🧐
-- 🔭 &nbsp; I’m currently working on my **[Portfolio V2](https://app.weirdest.space/)** using nextjs, TS, graphql, apollo, MDX, Vercel...[typing]
+- 🔭 &nbsp; I’m currently working on my **[Portfolio V2](https://app.weirdest.store/)** using nextjs, TS, graphql, apollo, MDX, Vercel...[typing]
 - 🌱 &nbsp; I’m currently learning Typescript
 - 👨🏻‍💻 &nbsp; Most of my projects are on [Github](https://github.com/just-be-weird?tab=repositories) if not published privately
 - 💬 &nbsp; Ask me about anything tech related, I'll try my best
