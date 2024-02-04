@@ -6,7 +6,7 @@
 * Crazy about design in general 🎨
 * Part-time volunteer teacher 👨‍🏫
 * Huge nature lover 🌳🌲🐢
-* Crazy about emojis 😍🤓😸
+* Crazy about emojis 🤓😸
 * Anime lover 😍
  
  Loves tinkering with new tech tools 💻 and build cool stuffs 🛠️ in spare time
